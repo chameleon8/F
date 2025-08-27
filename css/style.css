@@ -6,7 +6,7 @@
 
 
 body {
-    background-image: url("../assets/images/background.jpg");
+    background-image: url("../assets/images/background.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -123,7 +123,7 @@ a {
     color: white;
     position: absolute;
     top: 45px;
-    left: 30px;
+    left: 25px;
     font-size: 30px;
     font-family: "Montserrat-M", sans-serif;
     cursor: pointer;
@@ -131,11 +131,12 @@ a {
 
 .text_about_me {
     color: white;
-    margin-top: 30px;
-    margin-left: 38px;
-    margin-right: 38px;
-    margin-bottom: 21px;
+    margin-top: 15px;
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-bottom: 15px;
     text-align: center;
-    font-family: "Montserrat-L", sans-serif;
+    font-family: "Montserrat-M", sans-serif;
     font-size: 15px;
+    overflow: hidden;
 }
